@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ashray Adhikari's github 👋
 
 <!--
 **ashray-00/ashray-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Ashray's github stats](https://github-readme-stats.vercel.app/api?username=ashray-00&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashray-00&layout=compact&hide=html&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
